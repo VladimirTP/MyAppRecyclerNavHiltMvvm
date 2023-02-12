@@ -9,7 +9,7 @@ import android.widget.TextView
 import androidx.navigation.fragment.navArgs
 import com.example.myapprecyclernavhiltmvvm.R
 
-class FilmDescriptionFragment : Fragment() {
+class FilmDescriptionFragment: Fragment() {
 
     private val args: FilmDescriptionFragmentArgs by navArgs()
 
